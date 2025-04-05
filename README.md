@@ -100,7 +100,6 @@ python app_launcher.py
 - Advanced Version: For additional tools and modes
 
 ### Mobile
-1. Install from App Store (iOS) or Google Play Store (Android)
 2. Grant camera permissions
 3. Follow on-screen tutorial for gesture controls
 
